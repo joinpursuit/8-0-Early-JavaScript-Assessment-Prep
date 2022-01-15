@@ -1,4 +1,4 @@
-# 8-0-Early-JavaScript-Assessment-Prep
+# Preparation for the Early JavaScript Assessment/Extra Fundamentals Practice
 
 ## Drills
 
