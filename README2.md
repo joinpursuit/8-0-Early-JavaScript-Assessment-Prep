@@ -6,7 +6,7 @@
 - Create an if/else statement that 
    if flip is greater than .5 log `heads`
    if flip is less than .5 log `tails`
- - Assign different values to `flip` to test that yoru if/else statment works
+ - Assign different values to `flip` to test that your if/else statment works
 
 
 - Write a function `coinFlip` 
